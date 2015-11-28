@@ -1,0 +1,51 @@
+.jumbotron{
+	position:relative; 
+	margin-left: auto;
+	margin-right:auto;
+	font-family:"Comic Sans MS", "Lucida Sans Unicode", sans-serif;
+	text-align:center;
+	background-color: #000000;
+}
+#title{
+	font-family:"Comic Sans MS", "Lucida Sans Unicode", sans-serif;
+	color:#0055FF;
+}
+.nav{
+	display:inline;
+	
+}
+li{
+	font-size:2.5em;
+}
+#Start{
+	height: auto !important;
+	overflow:hidden;
+	
+}
+#Studium{
+	height: auto !important;
+	overflow: hidden;
+
+}
+#home{
+	font-size:1.5em;
+}
+#sc{
+	font-size:1.5em;
+}
+#codeacademylist{
+	font-size:0.6em;
+}
+#codeacademy h2{
+	font-style: bold;
+}
+#infolist{
+	font-size:0.6em;
+}
+#text{
+	height:30px;
+	font-family: "Comic Sanc MS", serif;
+}
+.wiki{
+	float:right;
+}
